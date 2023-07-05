@@ -1,6 +1,6 @@
 This resource was made by the Go community and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/Sanchitbajaj02/HacktoberFest-Responsive-Portfolio/graphs/contributors).
 
-# Contribution Guidelines
+## Contribution Guidelines
 
 > Please be aware that we want to accept your contribution, but we have **some rules to keep the minimum quality** of the packages listed here. All reviews are **not personal feedback**, even if you are a _developer reviewing your contribution_. **Sorry if we can't meet your expectations, we do our best**.
 - **To add, remove, or change things on the list:** Submit a pull request
